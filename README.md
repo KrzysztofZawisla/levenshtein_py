@@ -17,7 +17,7 @@ from levenshtein_py import LevenshteinPy
   * @collection List[str] - collection to search over.
   * @returns List[str] - filtered collection.
 */
-LevenshteinPy.filter(input: String, distance: int, collection: List[str]) -> List[str]
+LevenshteinPy.filter(input: str, distance: int, collection: List[str]) -> List[str]
 ```
 
 ## Used libraries
