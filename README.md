@@ -4,6 +4,7 @@ Library for Python3 that uses the levenshtein-rs.
 ## How to import
 
 ```py
+# pylint: disable=no-name-in-module
 from levenshtein_py import LevenshteinPy
 ```
 
